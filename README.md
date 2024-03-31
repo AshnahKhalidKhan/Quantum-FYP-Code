@@ -1,5 +1,9 @@
 # Gameplan:
 
+Resources:
+- Jamie Slides: https://sites.google.com/site/jamiesikora/teaching/paris-qipss23
+- Maryland thingy: https://www.math.uwaterloo.ca/~anayak/Site/SDP_in_QI.html
+
 Module # 1:
 - Notebook # 1: Introduction to operators, representations and notations (short)
 - Notebook # 2: Positive Semidefinite Operators
