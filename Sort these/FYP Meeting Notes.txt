@@ -1,0 +1,20 @@
+- Poster: 7 slides
+- Demo for QGS
+- Demo for SDP
+- Write main contribution as theorem
+- Prelimary framework/notation section (look at PhD theses to get an understanding of what thye mean)
+- Add circuits
+
+You get a blackbox boolean function f as input which takes an n-bit string as input.
+
+
+- QGS crossroads
+- We were looking at optimization, SDP was optimization techniques
+- Include Learning outcomes, turn it into teacher's manual
+
+Program on QGS
+Program on SDP
+Program of Max-Cut
+
+
+Repository for all programs
